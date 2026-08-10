@@ -3,11 +3,6 @@ from tkinter import font as tkfont
 import random
 import math
 
-# ----------------------------------------------------------------------
-# PASSWORD STRENGTH CHECKER — minimal dark UI
-# ----------------------------------------------------------------------
-
-# ---- palette -----------------------------------------------------------
 BG          = "#0B0E14"   # window background
 PANEL       = "#12161F"   # entry / card background
 BORDER      = "#232837"   # hairline borders
